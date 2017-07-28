@@ -5,8 +5,8 @@ namespace WxPay;
 use WxPay\Exception;
 use WxPay\Config;
 use WxPay\DataBase;
-use WxPay\lib\Results;
-use WxPay\lib\Report;
+use WxPay\data\Results;
+use WxPay\data\Report;
 
 /**
  *
